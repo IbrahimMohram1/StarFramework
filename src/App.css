@@ -1,0 +1,10 @@
+.card:hover .overlay{
+    transition: all .8s;
+}
+
+.active{
+    background-color: #1abc9c;
+    padding: 10px 20px 10px 20px ;
+    color: #fff;
+    border-radius: 5px;
+}
